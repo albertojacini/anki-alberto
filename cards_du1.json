@@ -1,0 +1,1129 @@
+[
+  {
+    "id": 1,
+    "vorderseite": "because of",
+    "rückseite": "wegen",
+    "beispiele_pairs": [
+      {
+        "en": "I stayed home because of the rain.",
+        "de": "Ich blieb wegen des Regens zu Hause."
+      },
+      {
+        "en": "They canceled the picnic because of the storm.",
+        "de": "Sie haben das Picknick wegen des Sturms abgesagt."
+      },
+      {
+        "en": "We are late because of traffic.",
+        "de": "Wir sind wegen des Verkehrs spät."
+      },
+      {
+        "en": "She is upset because of the news.",
+        "de": "Sie ist wegen der Nachrichten traurig."
+      },
+      {
+        "en": "He went to the doctor because of his headache.",
+        "de": "Er ging zum Arzt wegen seiner Kopfschmerzen."
+      },
+      {
+        "en": "I can't go out because of my cold.",
+        "de": "Ich kann nicht rausgehen wegen meiner Erkältung."
+      },
+      {
+        "en": "They decided to leave early because of the weather.",
+        "de": "Sie entschieden sich, früh zu gehen wegen des Wetters."
+      },
+      {
+        "en": "She missed the bus because of her mistake.",
+        "de": "Sie verpasste den Bus wegen ihres Fehlers."
+      },
+      {
+        "en": "We are studying hard because of the exam.",
+        "de": "Wir lernen fleißig wegen der Prüfung."
+      },
+      {
+        "en": "He was happy because of the gift.",
+        "de": "Er war glücklich wegen des Geschenks."
+      }
+    ],
+    "hinweise": "Präposition: verlangt den Genitiv. Oft verwendet in negativen und positiven Zusammenhängen, um Gründe auszudrücken.",
+    "wortart": "Präposition"
+  },
+  {
+    "id": 2,
+    "vorderseite": "the experience",
+    "rückseite": "die Erfahrung",
+    "beispiele_pairs": [
+      {
+        "en": "I have a lot of experience in this field.",
+        "de": "Ich habe viel Erfahrung in diesem Bereich."
+      },
+      {
+        "en": "She gained experience while traveling.",
+        "de": "Sie hat Erfahrung beim Reisen gesammelt."
+      },
+      {
+        "en": "Do you have any experience with this software?",
+        "de": "Hast du Erfahrung mit dieser Software?"
+      },
+      {
+        "en": "His experience helped us a lot.",
+        "de": "Seine Erfahrung hat uns sehr geholfen."
+      },
+      {
+        "en": "We will learn from our past experiences.",
+        "de": "Wir werden aus unseren vergangenen Erfahrungen lernen."
+      },
+      {
+        "en": "Experience is important for this job.",
+        "de": "Erfahrung ist wichtig für diesen Job."
+      },
+      {
+        "en": "They shared their experiences during the workshop.",
+        "de": "Sie haben ihre Erfahrungen während des Workshops geteilt."
+      },
+      {
+        "en": "I remember my first experience at the beach.",
+        "de": "Ich erinnere mich an meine erste Erfahrung am Strand."
+      },
+      {
+        "en": "She wants to gain more experience before applying.",
+        "de": "Sie möchte mehr Erfahrung sammeln, bevor sie sich bewirbt."
+      },
+      {
+        "en": "His experience made him a better teacher.",
+        "de": "Seine Erfahrung hat ihn zu einem besseren Lehrer gemacht."
+      }
+    ],
+    "hinweise": "Nomen: die Erfahrung, die Erfahrungen (Plural).",
+    "wortart": "Substantiv"
+  },
+  {
+    "id": 3,
+    "vorderseite": "the traffic",
+    "rückseite": "der Verkehr",
+    "beispiele_pairs": [
+      {
+        "en": "The traffic is very heavy today.",
+        "de": "Der Verkehr ist heute sehr stark."
+      },
+      {
+        "en": "I like to avoid traffic jams.",
+        "de": "Ich vermeide gern Staus."
+      },
+      {
+        "en": "There was a traffic accident on the highway.",
+        "de": "Es gab einen Verkehrsunfall auf der Autobahn."
+      },
+      {
+        "en": "The traffic is moving slowly.",
+        "de": "Der Verkehr fließt langsam."
+      },
+      {
+        "en": "We usually have a lot of traffic in the morning.",
+        "de": "Morgens haben wir normalerweise viel Verkehr."
+      },
+      {
+        "en": "The road is closed due to traffic.",
+        "de": "Die Straße ist wegen des Verkehrs gesperrt."
+      },
+      {
+        "en": "He is stuck in traffic.",
+        "de": "Er steckt im Verkehr fest."
+      },
+      {
+        "en": "Can you check the traffic report?",
+        "de": "Kannst du den Verkehrbericht überprüfen?"
+      },
+      {
+        "en": "They are discussing traffic safety.",
+        "de": "Sie sprechen über die Verkehrssicherheit."
+      },
+      {
+        "en": "Traffic lights help control the flow of vehicles.",
+        "de": "Ampeln helfen, den Verkehr zu regeln."
+      }
+    ],
+    "hinweise": "der Verkehr, die Verkehre (plural) — beachten Sie, dass 'Verkehr' auch Verkehrsfluss und Verkehrssicherheit bedeutet.",
+    "wortart": "Substantiv"
+  },
+  {
+    "id": 4,
+    "vorderseite": "earlier / former / previous",
+    "rückseite": "früher / früheren",
+    "beispiele_pairs": [
+      {
+        "en": "I lived in Berlin earlier.",
+        "de": "Ich habe früher in Berlin gewohnt."
+      },
+      {
+        "en": "My former job was interesting.",
+        "de": "Mein früherer Job war interessant."
+      },
+      {
+        "en": "She arrived earlier than expected.",
+        "de": "Sie ist früher als erwartet angekommen."
+      },
+      {
+        "en": "In previous years, we traveled a lot.",
+        "de": "In früheren Jahren sind wir viel gereist."
+      },
+      {
+        "en": "He used to play soccer earlier.",
+        "de": "Er hat früher Fußball gespielt."
+      },
+      {
+        "en": "I met my former teacher yesterday.",
+        "de": "Ich habe gestern meinen früheren Lehrer getroffen."
+      },
+      {
+        "en": "They were friends in earlier times.",
+        "de": "Sie waren früher Freunde."
+      },
+      {
+        "en": "We talked about previous experiences.",
+        "de": "Wir haben über frühere Erfahrungen gesprochen."
+      },
+      {
+        "en": "She was my former classmate.",
+        "de": "Sie war meine frühere Klassenkameradin."
+      },
+      {
+        "en": "I learned German earlier in my life.",
+        "de": "Ich habe früher in meinem Leben Deutsch gelernt."
+      }
+    ],
+    "hinweise": "Adjektiv: wird oft verwendet, um Zeit oder Erinnerungen zu beschreiben. Häufige Kollokationen: 'früher Morgen', 'früher Zeitpunkt'.",
+    "wortart": "Adjektiv"
+  },
+  {
+    "id": 5,
+    "vorderseite": "the idea",
+    "rückseite": "die Vorstellung",
+    "beispiele_pairs": [
+      {
+        "en": "I have a new idea.",
+        "de": "Ich habe eine neue Vorstellung."
+      },
+      {
+        "en": "What is your idea about this project?",
+        "de": "Was ist deine Vorstellung zu diesem Projekt?"
+      },
+      {
+        "en": "She presented her concept to the team.",
+        "de": "Sie hat ihre Vorstellung dem Team präsentiert."
+      },
+      {
+        "en": "We need to discuss our ideas.",
+        "de": "Wir müssen unsere Vorstellungen besprechen."
+      },
+      {
+        "en": "His imagination is very vivid.",
+        "de": "Seine Vorstellungskraft ist sehr lebhaft."
+      },
+      {
+        "en": "I can't understand your idea.",
+        "de": "Ich kann deine Vorstellung nicht verstehen."
+      },
+      {
+        "en": "They had a great performance last night.",
+        "de": "Sie hatten gestern Abend eine tolle Vorstellung."
+      },
+      {
+        "en": "Do you have a different concept?",
+        "de": "Hast du eine andere Vorstellung?"
+      },
+      {
+        "en": "Her ideas are always interesting.",
+        "de": "Ihre Vorstellungen sind immer interessant."
+      },
+      {
+        "en": "In my opinion, this is a good idea.",
+        "de": "Meiner Meinung nach ist das eine gute Vorstellung."
+      }
+    ],
+    "hinweise": "Nouns: die Vorstellung, die Vorstellungen (plural). 'Vorstellung' can mean idea, concept, or performance depending on the context. Pay attention to the context when using this word.",
+    "wortart": "Substantiv"
+  },
+  {
+    "id": 6,
+    "vorderseite": "to run / to walk / to go",
+    "rückseite": "laufen",
+    "beispiele_pairs": [
+      {
+        "en": "I run every morning.",
+        "de": "Ich laufe jeden Morgen."
+      },
+      {
+        "en": "Do you walk to school?",
+        "de": "Läufst du zur Schule?"
+      },
+      {
+        "en": "He is going to the store.",
+        "de": "Er läuft zum Laden."
+      },
+      {
+        "en": "We ran in the park yesterday.",
+        "de": "Wir sind gestern im Park gelaufen."
+      },
+      {
+        "en": "They walk slowly.",
+        "de": "Sie laufen langsam."
+      },
+      {
+        "en": "She ran a marathon last year.",
+        "de": "Sie lief letztes Jahr einen Marathon."
+      },
+      {
+        "en": "I like to walk in the evening.",
+        "de": "Ich laufe gern am Abend."
+      },
+      {
+        "en": "You all are going to the concert.",
+        "de": "Ihr lauft zum Konzert."
+      },
+      {
+        "en": "The movie went well.",
+        "de": "Der Film lief gut."
+      },
+      {
+        "en": "He used to run every day.",
+        "de": "Er lief früher jeden Tag."
+      }
+    ],
+    "hinweise": "ich laufe, du läufst, er läuft, wir laufen, ihr lauft, sie laufen | Perfekt: ist gelaufen | Präteritum: er lief | unregelmäßig | kann auch als separables Verb in Phrasen wie 'loslaufen' verwendet werden.",
+    "wortart": "Verb"
+  },
+  {
+    "id": 7,
+    "vorderseite": "to exceed",
+    "rückseite": "übersteigen",
+    "beispiele_pairs": [
+      {
+        "en": "The prices exceeded my budget.",
+        "de": "Die Preise überstiegen mein Budget."
+      },
+      {
+        "en": "His performance surpassed all expectations.",
+        "de": "Seine Leistung überstieg alle Erwartungen."
+      },
+      {
+        "en": "The mountain exceeds 3000 meters in height.",
+        "de": "Der Berg übersteigt 3000 Meter in Höhe."
+      },
+      {
+        "en": "The number of participants went beyond our initial estimates.",
+        "de": "Die Anzahl der Teilnehmer überstieg unsere ursprünglichen Schätzungen."
+      },
+      {
+        "en": "Her talent exceeds that of her peers.",
+        "de": "Ihr Talent übersteigt das ihrer Altersgenossen."
+      },
+      {
+        "en": "The project exceeded the planned budget.",
+        "de": "Das Projekt überstieg das geplante Budget."
+      },
+      {
+        "en": "Do you think he will exceed his previous record?",
+        "de": "Glaubst du, dass er seinen bisherigen Rekord übersteigen wird?"
+      },
+      {
+        "en": "The costs will surpass our forecasts.",
+        "de": "Die Kosten werden unsere Prognosen übersteigen."
+      },
+      {
+        "en": "Their enthusiasm exceeded our expectations.",
+        "de": "Ihre Begeisterung überstieg unsere Erwartungen."
+      },
+      {
+        "en": "The book's popularity went beyond the author's wildest dreams.",
+        "de": "Die Beliebtheit des Buches überstieg die kühnsten Träume des Autors."
+      }
+    ],
+    "hinweise": "ich übersteige, du übersteigst, er übersteigt, wir übersteigen, ihr übersteigt, sie übersteigen | Perfekt: hat überstiegen | unregelmäßig | kann in verschiedenen Kontexten verwendet werden, um Grenzen oder Erwartungen zu überschreiten.",
+    "wortart": "Verb"
+  },
+  {
+    "id": 8,
+    "vorderseite": "open",
+    "rückseite": "offen",
+    "beispiele_pairs": [
+      {
+        "en": "The door is open.",
+        "de": "Die Tür ist offen."
+      },
+      {
+        "en": "Is the shop open today?",
+        "de": "Ist der Laden heute offen?"
+      },
+      {
+        "en": "I prefer open discussions.",
+        "de": "Ich bevorzuge offene Diskussionen."
+      },
+      {
+        "en": "She left the window open.",
+        "de": "Sie hat das Fenster offen gelassen."
+      },
+      {
+        "en": "The meeting is open to everyone.",
+        "de": "Die Sitzung ist für alle offen."
+      },
+      {
+        "en": "He is open to new ideas.",
+        "de": "Er ist offen für neue Ideen."
+      },
+      {
+        "en": "The book is still open on the table.",
+        "de": "Das Buch liegt noch offen auf dem Tisch."
+      },
+      {
+        "en": "They are open about their plans.",
+        "de": "Sie sind offen über ihre Pläne."
+      },
+      {
+        "en": "Please keep the discussion open.",
+        "de": "Bitte haltet die Diskussion offen."
+      },
+      {
+        "en": "Her attitude is very open.",
+        "de": "Ihre Einstellung ist sehr offen."
+      }
+    ],
+    "hinweise": "Adjektiv 'offen' beschreibt den Zustand, dass etwas nicht geschlossen ist. Häufige Kollokationen sind 'offene Diskussion', 'offenes Fenster', 'offene Türen'. Der Komparativ ist 'offener'.",
+    "wortart": "Adjektiv"
+  },
+  {
+    "id": 9,
+    "vorderseite": "closed",
+    "rückseite": "geschlossen",
+    "beispiele_pairs": [
+      {
+        "en": "The shop is closed today.",
+        "de": "Der Laden ist heute geschlossen."
+      },
+      {
+        "en": "The door was closed.",
+        "de": "Die Tür war geschlossen."
+      },
+      {
+        "en": "Is the bank closed on Sundays?",
+        "de": "Ist die Bank am Sonntag geschlossen?"
+      },
+      {
+        "en": "I will close the window.",
+        "de": "Ich werde das Fenster schließen."
+      },
+      {
+        "en": "They have closed the road.",
+        "de": "Sie haben die Straße geschlossen."
+      },
+      {
+        "en": "The restaurant is closed for renovation.",
+        "de": "Das Restaurant ist wegen Renovierung geschlossen."
+      },
+      {
+        "en": "Please keep the door closed.",
+        "de": "Bitte halte die Tür geschlossen."
+      },
+      {
+        "en": "The meeting is closed to the public.",
+        "de": "Die Sitzung ist für die Öffentlichkeit geschlossen."
+      },
+      {
+        "en": "The store closes at 8 PM.",
+        "de": "Der Laden schließt um 20 Uhr."
+      },
+      {
+        "en": "I forgot to close the door.",
+        "de": "Ich habe vergessen, die Tür zu schließen."
+      }
+    ],
+    "hinweise": "Adjektiv; 'geschlossen' wird oft in Verbindung mit Orten verwendet, wie z.B. 'geschlossen für Renovierung', oder auch in der Form 'die Tür ist geschlossen'.",
+    "wortart": "Adjektiv"
+  },
+  {
+    "id": 10,
+    "vorderseite": "to open",
+    "rückseite": "öffnen",
+    "beispiele_pairs": [
+      {
+        "en": "I open the door.",
+        "de": "Ich öffne die Tür."
+      },
+      {
+        "en": "Can you open the window?",
+        "de": "Kannst du das Fenster öffnen?"
+      },
+      {
+        "en": "He opens his book.",
+        "de": "Er öffnet sein Buch."
+      },
+      {
+        "en": "We opened a new shop.",
+        "de": "Wir haben einen neuen Laden eröffnet."
+      },
+      {
+        "en": "She is opening the box.",
+        "de": "Sie öffnet die Kiste."
+      },
+      {
+        "en": "They will open the exhibition tomorrow.",
+        "de": "Sie werden die Ausstellung morgen öffnen."
+      },
+      {
+        "en": "You opened the letter last week.",
+        "de": "Du hast den Brief letzte Woche geöffnet."
+      },
+      {
+        "en": "I had opened the door before he arrived.",
+        "de": "Ich hatte die Tür geöffnet, bevor er ankam."
+      },
+      {
+        "en": "Open your books to page ten.",
+        "de": "Öffnet eure Bücher auf Seite zehn."
+      },
+      {
+        "en": "He usually opens his gifts on his birthday.",
+        "de": "Er öffnet seine Geschenke normalerweise an seinem Geburtstag."
+      }
+    ],
+    "hinweise": "ich öffne, du öffnest, er öffnet, wir öffnen, ihr öffnet, sie öffnen | Perfekt: hat geöffnet | Präteritum: er öffnete | regelmäßig | 'ein Fenster öffnen', 'eine Tür öffnen', 'ein Gespräch eröffnen'",
+    "wortart": "Verb"
+  },
+  {
+    "id": 11,
+    "vorderseite": "to close",
+    "rückseite": "schließen",
+    "beispiele_pairs": [
+      {
+        "en": "Please close the window.",
+        "de": "Bitte schließe das Fenster."
+      },
+      {
+        "en": "I close the door every night.",
+        "de": "Ich schließe die Tür jede Nacht."
+      },
+      {
+        "en": "He closed the book after reading.",
+        "de": "Er schloss das Buch nach dem Lesen."
+      },
+      {
+        "en": "We will close the shop at 6 PM.",
+        "de": "Wir schließen den Laden um 18 Uhr."
+      },
+      {
+        "en": "Did you close the gate?",
+        "de": "Hast du das Tor geschlossen?"
+      },
+      {
+        "en": "She is closing her laptop.",
+        "de": "Sie schließt ihren Laptop."
+      },
+      {
+        "en": "They closed the meeting early.",
+        "de": "Sie schlossen die Sitzung früh."
+      },
+      {
+        "en": "You should lock the door.",
+        "de": "Du solltest die Tür abschließen."
+      },
+      {
+        "en": "I closed my eyes and relaxed.",
+        "de": "Ich schloss meine Augen und entspannte mich."
+      },
+      {
+        "en": "He usually closes the window in winter.",
+        "de": "Er schließt im Winter normalerweise das Fenster."
+      }
+    ],
+    "hinweise": "ich schließe, du schließt, er schließt, wir schließen, ihr schließt, sie schließen | Perfekt: hat geschlossen | Präteritum: er schloss | unregelmäßig | kann auch als trennbares Verb verwendet werden: 'schließen' (e.g., 'Ich schließe die Tür ab').",
+    "wortart": "Verb"
+  },
+  {
+    "id": 12,
+    "vorderseite": "the rejection",
+    "rückseite": "die Absage",
+    "beispiele_pairs": [
+      {
+        "en": "I received a rejection from the job.",
+        "de": "Ich habe eine Absage von dem Job erhalten."
+      },
+      {
+        "en": "She sent a cancellation for the meeting.",
+        "de": "Sie hat eine Absage für das Treffen geschickt."
+      },
+      {
+        "en": "He always takes rejections personally.",
+        "de": "Er nimmt Absagen immer persönlich."
+      },
+      {
+        "en": "We received a refusal for the application.",
+        "de": "Wir haben eine Absage für die Bewerbung erhalten."
+      },
+      {
+        "en": "They announced the cancellation of the event.",
+        "de": "Sie haben die Absage des Events angekündigt."
+      },
+      {
+        "en": "I hope the rejection won't affect my mood.",
+        "de": "Ich hoffe, die Absage wird meine Stimmung nicht beeinflussen."
+      },
+      {
+        "en": "The refusal surprised everyone.",
+        "de": "Die Absage hat alle überrascht."
+      },
+      {
+        "en": "Can you handle a rejection well?",
+        "de": "Kannst du eine Absage gut verkraften?"
+      },
+      {
+        "en": "She was disappointed by the refusal.",
+        "de": "Sie war enttäuscht von der Absage."
+      },
+      {
+        "en": "After the rejection, he applied to more companies.",
+        "de": "Nach der Absage hat er sich bei mehr Firmen beworben."
+      }
+    ],
+    "hinweise": "die Absage, die Absagen (plural)",
+    "wortart": "Substantiv"
+  },
+  {
+    "id": 13,
+    "vorderseite": "to receive",
+    "rückseite": "erhalten",
+    "beispiele_pairs": [
+      {
+        "en": "I receive a letter every month.",
+        "de": "Ich erhalte jeden Monat einen Brief."
+      },
+      {
+        "en": "She received a gift for her birthday.",
+        "de": "Sie hat ein Geschenk zu ihrem Geburtstag erhalten."
+      },
+      {
+        "en": "We will get the results tomorrow.",
+        "de": "Wir werden die Ergebnisse morgen erhalten."
+      },
+      {
+        "en": "Did you receive my email?",
+        "de": "Hast du meine E-Mail erhalten?"
+      },
+      {
+        "en": "They obtained permission to start the project.",
+        "de": "Sie haben die Erlaubnis erhalten, das Projekt zu starten."
+      },
+      {
+        "en": "He receives a salary every month.",
+        "de": "Er erhält jeden Monat ein Gehalt."
+      },
+      {
+        "en": "You got an invitation to the party.",
+        "de": "Du hast eine Einladung zur Party erhalten."
+      },
+      {
+        "en": "We received help from our friends.",
+        "de": "Wir haben Hilfe von unseren Freunden erhalten."
+      },
+      {
+        "en": "She received a warm welcome.",
+        "de": "Sie erhielt einen herzlichen Empfang."
+      },
+      {
+        "en": "I have not yet received a response.",
+        "de": "Ich habe noch keine Antwort erhalten."
+      }
+    ],
+    "hinweise": "ich erhalte, du erhältst, er erhält, wir erhalten, ihr erhaltet, sie erhalten | Perfekt: hat erhalten | Präteritum: er erhielt | unregelmäßig | häufige Kollokationen: Geld erhalten, Informationen erhalten, Zugang erhalten",
+    "wortart": "Verb"
+  },
+  {
+    "id": 14,
+    "vorderseite": "to estimate / to appreciate / to value",
+    "rückseite": "schätzen",
+    "beispiele_pairs": [
+      {
+        "en": "I estimate the cost.",
+        "de": "Ich schätze die Kosten."
+      },
+      {
+        "en": "He appreciates her help.",
+        "de": "Er schätzt ihre Hilfe."
+      },
+      {
+        "en": "We value friendship.",
+        "de": "Wir schätzen Freundschaft."
+      },
+      {
+        "en": "Do you estimate the time?",
+        "de": "Schätzt du die Zeit?"
+      },
+      {
+        "en": "They have valued the project highly.",
+        "de": "Sie haben das Projekt hoch geschätzt."
+      },
+      {
+        "en": "She estimated the distance.",
+        "de": "Sie schätzte die Entfernung."
+      },
+      {
+        "en": "You (plural) appreciate good food.",
+        "de": "Ihr schätzt gutes Essen."
+      },
+      {
+        "en": "I will appreciate your effort.",
+        "de": "Ich werde deinen Aufwand schätzen."
+      },
+      {
+        "en": "He estimated that it would rain.",
+        "de": "Er schätzte, dass es regnen würde."
+      },
+      {
+        "en": "We have valued the service.",
+        "de": "Wir haben den Service geschätzt."
+      }
+    ],
+    "hinweise": "ich schätze, du schätzt, er/sie/es schätzt, wir schätzen, ihr schätzt, sie schätzen | Perfekt: hat geschätzt | regelmäßig | häufige Kollokationen: 'schätzen lernen', 'etwas hoch schätzen'",
+    "wortart": "Verb"
+  },
+  {
+    "id": 15,
+    "vorderseite": "the strength",
+    "rückseite": "die Stärke, die Stärken (plural)",
+    "beispiele_pairs": [
+      {
+        "en": "Her strength is her kindness.",
+        "de": "Ihre Stärke ist ihre Freundlichkeit."
+      },
+      {
+        "en": "He has a great strength in math.",
+        "de": "Er hat eine große Stärke in Mathe."
+      },
+      {
+        "en": "We need to focus on our strengths.",
+        "de": "Wir müssen uns auf unsere Stärken konzentrieren."
+      },
+      {
+        "en": "What is your greatest strength?",
+        "de": "Was ist deine größte Stärke?"
+      },
+      {
+        "en": "She showed great strength during the challenge.",
+        "de": "Sie zeigte große Stärke während der Herausforderung."
+      },
+      {
+        "en": "His strength lies in his determination.",
+        "de": "Seine Stärke liegt in seiner Entschlossenheit."
+      },
+      {
+        "en": "They built their team around their strengths.",
+        "de": "Sie haben ihr Team um ihre Stärken aufgebaut."
+      },
+      {
+        "en": "I admire her strength in difficult times.",
+        "de": "Ich bewundere ihre Stärke in schwierigen Zeiten."
+      },
+      {
+        "en": "Recognizing your strengths is important.",
+        "de": "Es ist wichtig, seine Stärken zu erkennen."
+      },
+      {
+        "en": "Strength training is essential for athletes.",
+        "de": "Krafttraining ist für Sportler entscheidend."
+      }
+    ],
+    "hinweise": "Nouns: die Stärke, die Stärken (plural).",
+    "wortart": "Substantiv"
+  },
+  {
+    "id": 16,
+    "vorderseite": "different",
+    "rückseite": "unterschiedlich",
+    "beispiele_pairs": [
+      {
+        "en": "Die Schüler haben unterschiedliche Meinungen.",
+        "de": "Die Schüler haben unterschiedliche Meinungen."
+      },
+      {
+        "en": "Wir essen oft verschiedene Gerichte.",
+        "de": "Wir essen oft unterschiedliche Gerichte."
+      },
+      {
+        "en": "Die Blumen sind in verschiedenen Farben.",
+        "de": "Die Blumen sind in unterschiedlichen Farben."
+      },
+      {
+        "en": "Er hat verschiedene Hobbys.",
+        "de": "Er hat unterschiedliche Hobbys."
+      },
+      {
+        "en": "Die Aufgaben sind nicht gleich, sie sind unterschiedlich.",
+        "de": "Die Aufgaben sind nicht gleich, sie sind unterschiedlich."
+      },
+      {
+        "en": "In der Stadt gibt es viele verschiedene Kulturen.",
+        "de": "In der Stadt gibt es viele unterschiedliche Kulturen."
+      },
+      {
+        "en": "Die Filme sind unterschiedlich spannend.",
+        "de": "Die Filme sind unterschiedlich spannend."
+      },
+      {
+        "en": "Wir haben unterschiedliche Ansichten über das Thema.",
+        "de": "Wir haben unterschiedliche Ansichten über das Thema."
+      },
+      {
+        "en": "Die Preise in den Geschäften sind unterschiedlich.",
+        "de": "Die Preise in den Geschäften sind unterschiedlich."
+      },
+      {
+        "en": "Die Geschmäcker sind unterschiedlich.",
+        "de": "Die Geschmäcker sind unterschiedlich."
+      }
+    ],
+    "hinweise": "Adjektiv, beschreibt Abweichungen oder Unterschiede zwischen Dingen oder Personen. Häufige Kollokationen sind 'unterschiedliche Meinungen', 'unterschiedliche Farben'.",
+    "wortart": "Adjektiv"
+  },
+  {
+    "id": 17,
+    "vorderseite": "to apply (for a job/position)",
+    "rückseite": "sich bewerben",
+    "beispiele_pairs": [
+      {
+        "en": "I want to apply for the job.",
+        "de": "Ich möchte mich um die Stelle bewerben."
+      },
+      {
+        "en": "She applied last week.",
+        "de": "Sie hat sich letzte Woche beworben."
+      },
+      {
+        "en": "They are applying for a new position.",
+        "de": "Sie bewerben sich um eine neue Position."
+      },
+      {
+        "en": "Have you applied already?",
+        "de": "Hast du dich schon beworben?"
+      },
+      {
+        "en": "He applied to several companies.",
+        "de": "Er hat sich bei mehreren Firmen beworben."
+      },
+      {
+        "en": "We will apply next month.",
+        "de": "Wir werden uns nächsten Monat bewerben."
+      },
+      {
+        "en": "You should apply for that internship.",
+        "de": "Du solltest dich um dieses Praktikum bewerben."
+      },
+      {
+        "en": "I applied and got the job!",
+        "de": "Ich habe mich beworben und den Job bekommen!"
+      },
+      {
+        "en": "She is applying for a scholarship.",
+        "de": "Sie bewirbt sich um ein Stipendium."
+      },
+      {
+        "en": "They have applied together.",
+        "de": "Sie haben sich zusammen beworben."
+      }
+    ],
+    "hinweise": "ich bewerbe mich, du bewirbst dich, er bewirbt sich, wir bewerben uns, ihr bewerbt euch, sie bewerben sich | Perfekt: hat sich beworben | Präteritum: er bewarb sich | unregelmäßig | oft in Verbindung mit 'um' für Positionen.",
+    "wortart": "Verb"
+  },
+  {
+    "id": 18,
+    "vorderseite": "long-term",
+    "rückseite": "langfristig",
+    "beispiele_pairs": [
+      {
+        "en": "Wir planen langfristig für unsere Zukunft.",
+        "de": "Wir planen langfristig für unsere Zukunft."
+      },
+      {
+        "en": "Langfristige Investitionen sind oft sicherer.",
+        "de": "Langfristige Investitionen sind oft sicherer."
+      },
+      {
+        "en": "Ich denke langfristig über meine Karriere nach.",
+        "de": "Ich denke langfristig über meine Karriere nach."
+      },
+      {
+        "en": "Langfristig gesehen, ist das die beste Entscheidung.",
+        "de": "Langfristig gesehen, ist das die beste Entscheidung."
+      },
+      {
+        "en": "Die langfristigen Ziele sind wichtig für den Erfolg.",
+        "de": "Die langfristigen Ziele sind wichtig für den Erfolg."
+      },
+      {
+        "en": "Er spart langfristig für ein neues Auto.",
+        "de": "Er spart langfristig für ein neues Auto."
+      },
+      {
+        "en": "Wir müssen langfristig denken, nicht nur kurzfristig.",
+        "de": "Wir müssen langfristig denken, nicht nur kurzfristig."
+      },
+      {
+        "en": "Langfristige Pläne erfordern Geduld.",
+        "de": "Langfristige Pläne erfordern Geduld."
+      },
+      {
+        "en": "Ich möchte langfristig in dieser Firma arbeiten.",
+        "de": "Ich möchte langfristig in dieser Firma arbeiten."
+      },
+      {
+        "en": "Das Projekt hat langfristige Auswirkungen auf die Umwelt.",
+        "de": "Das Projekt hat langfristige Auswirkungen auf die Umwelt."
+      }
+    ],
+    "hinweise": "Langfristig wird oft in Verbindung mit Plänen, Investitionen oder Zielen verwendet. Es beschreibt eine Zeitspanne, die über einen langen Zeitraum reicht. Im Vergleich zu kurzfristig.",
+    "wortart": "Adjektiv"
+  },
+  {
+    "id": 19,
+    "vorderseite": "the task",
+    "rückseite": "die Aufgabe",
+    "beispiele_pairs": [
+      {
+        "en": "I have a new task at work.",
+        "de": "Ich habe eine neue Aufgabe bei der Arbeit."
+      },
+      {
+        "en": "She finished her homework task.",
+        "de": "Sie hat ihre Hausaufgabe fertiggemacht."
+      },
+      {
+        "en": "What is your task for today?",
+        "de": "Was ist deine Aufgabe für heute?"
+      },
+      {
+        "en": "We need to discuss our tasks.",
+        "de": "Wir müssen über unsere Aufgaben sprechen."
+      },
+      {
+        "en": "He received a difficult task.",
+        "de": "Er hat eine schwierige Aufgabe bekommen."
+      },
+      {
+        "en": "They are working on their tasks now.",
+        "de": "Sie arbeiten jetzt an ihren Aufgaben."
+      },
+      {
+        "en": "My teacher gave us a new task.",
+        "de": "Mein Lehrer hat uns eine neue Aufgabe gegeben."
+      },
+      {
+        "en": "Can you help me with this task?",
+        "de": "Kannst du mir bei dieser Aufgabe helfen?"
+      },
+      {
+        "en": "The task was completed on time.",
+        "de": "Die Aufgabe wurde rechtzeitig abgeschlossen."
+      },
+      {
+        "en": "You must take responsibility for your tasks.",
+        "de": "Du musst Verantwortung für deine Aufgaben übernehmen."
+      }
+    ],
+    "hinweise": "die Aufgabe, die Aufgaben (plural) — often used in the context of work or school; can refer to duties or responsibilities.",
+    "wortart": "Substantiv"
+  },
+  {
+    "id": 20,
+    "vorderseite": "high",
+    "rückseite": "hoch",
+    "beispiele_pairs": [
+      {
+        "en": "The building is very high.",
+        "de": "Das Gebäude ist sehr hoch."
+      },
+      {
+        "en": "My friend is taller than me.",
+        "de": "Mein Freund ist höher als ich."
+      },
+      {
+        "en": "We live on the top floor.",
+        "de": "Wir wohnen im höchsten Stockwerk."
+      },
+      {
+        "en": "The mountain is really high.",
+        "de": "Der Berg ist wirklich hoch."
+      },
+      {
+        "en": "She wants to be a high jumper.",
+        "de": "Sie möchte Hochspringerin werden."
+      },
+      {
+        "en": "He climbed the high tree.",
+        "de": "Er kletterte auf den hohen Baum."
+      },
+      {
+        "en": "This chair is too high for me.",
+        "de": "Dieser Stuhl ist zu hoch für mich."
+      },
+      {
+        "en": "The tower is the highest in the city.",
+        "de": "Der Turm ist der höchste in der Stadt."
+      },
+      {
+        "en": "The prices are high this year.",
+        "de": "Die Preise sind dieses Jahr hoch."
+      },
+      {
+        "en": "She has a high voice.",
+        "de": "Sie hat eine hohe Stimme."
+      }
+    ],
+    "hinweise": "Das Adjektiv 'hoch' beschreibt etwas, das sich weit über dem Boden befindet. Häufige Kollokationen sind 'hohe Gebäude', 'hohe Preise', und 'hohe Stimmen'. Der Komparativ ist 'höher' und der Superlativ ist 'am höchsten'. Das Gegenteil ist 'niedrig'.",
+    "wortart": "Adjektiv"
+  },
+  {
+    "id": 21,
+    "vorderseite": "low",
+    "rückseite": "niedrig",
+    "beispiele_pairs": [
+      {
+        "en": "The wall is low.",
+        "de": "Die Wand ist niedrig."
+      },
+      {
+        "en": "He has a low voice.",
+        "de": "Er hat eine niedrige Stimme."
+      },
+      {
+        "en": "The prices are low this week.",
+        "de": "Die Preise sind diese Woche niedrig."
+      },
+      {
+        "en": "She feels low today.",
+        "de": "Sie fühlt sich heute niedergeschlagen."
+      },
+      {
+        "en": "Is the table low enough?",
+        "de": "Ist der Tisch niedrig genug?"
+      },
+      {
+        "en": "The building is lower than the others.",
+        "de": "Das Gebäude ist niedriger als die anderen."
+      },
+      {
+        "en": "My energy levels are low.",
+        "de": "Meine Energie ist niedrig."
+      },
+      {
+        "en": "We need low prices for our budget.",
+        "de": "Wir brauchen niedrige Preise für unser Budget."
+      },
+      {
+        "en": "The mountain is not low.",
+        "de": "Der Berg ist nicht niedrig."
+      },
+      {
+        "en": "He is lower in rank than she is.",
+        "de": "Er ist niedriger im Rang als sie."
+      }
+    ],
+    "hinweise": "Das Adjektiv 'niedrig' beschreibt etwas, das eine geringe Höhe hat. Häufige Kollokationen sind 'niedriger Preis', 'niedriger Stand', 'niedriges Einkommen'. Der Komparativ ist 'niedriger' und der Superlativ ist 'am niedrigsten'. Das Gegenteil von 'niedrig' ist 'hoch'.",
+    "wortart": "Adjektiv"
+  },
+  {
+    "id": 22,
+    "vorderseite": "narrow",
+    "rückseite": "eng / schmal",
+    "beispiele_pairs": [
+      {
+        "en": "This street is very narrow.",
+        "de": "Diese Straße ist sehr eng."
+      },
+      {
+        "en": "The dress is too tight.",
+        "de": "Das Kleid ist zu eng."
+      },
+      {
+        "en": "He walked through the narrow passage.",
+        "de": "Er ging durch den schmalen Gang."
+      },
+      {
+        "en": "The book is not wide, it is narrow.",
+        "de": "Das Buch ist nicht breit, es ist schmal."
+      },
+      {
+        "en": "I prefer narrow shoes.",
+        "de": "Ich bevorzuge enge Schuhe."
+      },
+      {
+        "en": "The river is narrow here.",
+        "de": "Der Fluss ist hier eng."
+      },
+      {
+        "en": "She has a narrow face.",
+        "de": "Sie hat ein schmales Gesicht."
+      },
+      {
+        "en": "These paths are too narrow for two people.",
+        "de": "Diese Wege sind zu schmal für zwei Personen."
+      },
+      {
+        "en": "This room feels narrow.",
+        "de": "Dieser Raum wirkt eng."
+      },
+      {
+        "en": "He designed a narrow table.",
+        "de": "Er hat einen schmalen Tisch entworfen."
+      }
+    ],
+    "hinweise": "Das Adjektiv 'eng' wird oft verwendet, um physische Enge zu beschreiben, während 'schmal' auch für Formen und Breiten verwendet wird. Komparativ: enger, schmaler; Superlativ: am engsten, am schmalsten. Gegenteil: breit.",
+    "wortart": "Adjektiv"
+  },
+  {
+    "id": 23,
+    "vorderseite": "wide / broad",
+    "rückseite": "breit",
+    "beispiele_pairs": [
+      {
+        "en": "The river is wide.",
+        "de": "Der Fluss ist breit."
+      },
+      {
+        "en": "This street is broader than the other one.",
+        "de": "Diese Straße ist breiter als die andere."
+      },
+      {
+        "en": "He has broad shoulders.",
+        "de": "Er hat breite Schultern."
+      },
+      {
+        "en": "The table is very wide.",
+        "de": "Der Tisch ist sehr breit."
+      },
+      {
+        "en": "The park is wide and beautiful.",
+        "de": "Der Park ist breit und schön."
+      },
+      {
+        "en": "I want a wider bed.",
+        "de": "Ich möchte ein breiteres Bett."
+      },
+      {
+        "en": "This book is wider than the last one.",
+        "de": "Dieses Buch ist breiter als das letzte."
+      },
+      {
+        "en": "The road is not very wide.",
+        "de": "Die Straße ist nicht sehr breit."
+      },
+      {
+        "en": "They built a wide bridge.",
+        "de": "Sie haben eine breite Brücke gebaut."
+      },
+      {
+        "en": "She likes wearing wide trousers.",
+        "de": "Sie trägt gerne breite Hosen."
+      }
+    ],
+    "hinweise": "Breit wird oft verwendet, um physische Breite zu beschreiben. Gängige Kollokationen sind 'breite Straße', 'breiter Fluss'. Komparativ: breiter, Superlativ: am breitesten. Gegenteil: schmal.",
+    "wortart": "Adjektiv"
+  }
+]
